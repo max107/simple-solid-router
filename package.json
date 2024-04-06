@@ -1,5 +1,5 @@
 {
-    "name": "@biketravel/solid-router",
+    "name": "simple-solid-router",
     "version": "0.0.3",
     "prepublish": "tsc",
     "main": "dist/index.js",
