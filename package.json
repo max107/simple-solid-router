@@ -1,0 +1,19 @@
+{
+    "name": "@biketravel/solid-router",
+    "version": "0.0.1",
+    "prepublish": "tsc",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "path-to-regexp": "^6.2.1",
+        "qs": "^6.12.0",
+        "shallow-equal-object": "^1.1.1",
+        "solid-js": "^1.8.16"
+    },
+    "devDependencies": {
+        "@types/qs": "^6.9.7"
+    }
+}
