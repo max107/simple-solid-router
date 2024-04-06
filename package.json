@@ -1,5 +1,5 @@
 {
-    "name": "simple-solid-router",
+    "name": "max107-solid-router",
     "version": "0.0.4",
     "prepublish": "tsc",
     "main": "dist/index.js",
