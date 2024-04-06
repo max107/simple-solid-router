@@ -1,6 +1,6 @@
 {
     "name": "max107-solid-router",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "prepublish": "tsc",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
